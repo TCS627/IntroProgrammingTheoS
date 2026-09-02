@@ -7,8 +7,8 @@ Scenario: Simulating molecular emissions in a combustion reaction
   produced during combustion at high temperatures
 • Input Structure:
 - The header contains:
-  ‣ event ID: ID of the experiment or simulation run
-  ‣ number of molecules tracked: Total number of molecules observed in this run
+- event ID: ID of the experiment or simulation run
+- number of molecules tracked: Total number of molecules observed in this run
 • Each row after the header gives:
-  - 3D momentum components (px, py, pz in 10^-23 kg m/s), and  
-  - an integer ID representing the molecule or isotope
+- 3D momentum components (px, py, pz in 10^-23 kg m/s), and  
+- an integer ID representing the molecule or isotope
