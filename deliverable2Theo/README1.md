@@ -1,2 +1,1 @@
-please download the entire folder deliverables2Theo and open it as a folder in VSCode to avoid directory issues.
-thanks!
+hey, please make sure to donwload both the code2TS.py file and the output-Set0.txt file. then make sure to place them both in the same folder! now your free to open the python file in vs code and run it! thanks!
